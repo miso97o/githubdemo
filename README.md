@@ -1,2 +1,2 @@
 # githubdemo
-swedemo jenkins demo
+swedemo jenkins test
